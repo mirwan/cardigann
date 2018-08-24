@@ -150,6 +150,7 @@ Cardigann simply provides a format for describing how to log into and scrape the
 * HD-Torrents
 * Immortalseed
 * IPTorrents
+* Metal-tracker.com
 * MoreThanTV
 * MyAnonamouse
 * MySpleen
@@ -178,7 +179,6 @@ Cardigann simply provides a format for describing how to log into and scrape the
 * Transmithe.Net
 * Tspate
 * YggTorrent
-* Metal-tracker.com
 
 ### Dead
 * AlphaReign
